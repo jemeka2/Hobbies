@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    color:white;
+    text-align: center;
+    margin-top: 50px;
+}
+body{
+    background-color: #23272a;
+}
+.navbar{
+    background-color: #404eed;
+}
+.nav-link{
+    color: blue;
+}
+
+.carousel-inner img{
+    margin: auto;
+}
+
+
+.card{
+    margin:auto;
+    margin-top: 20px;
+
+}
+.animeDesc, .aboutCapoeira, .intro, .gameDesc, .programStory{
+    height:300px;
+    width: 75%;
+    margin:auto;
+    background: #404eed;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+}
+
+footer {
+    height: 50px;
+    width: 100%;
+    margin-top: 100px;
+    background-color: #404eed;
+    color: white;
+    text-align: center;
+
+}
+footer a{
+    color:white;
+}
+
+#videos{
+    margin-top: 20px;
+    margin-left: 20%;
+
+}
